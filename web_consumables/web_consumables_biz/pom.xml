@@ -13,6 +13,12 @@
 	<name>web_consumables_biz</name>
 
 	<dependencies>
+		<dependency>
+			<groupId>com.web.consumables.api</groupId>
+			<artifactId>web_consumables_api</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>

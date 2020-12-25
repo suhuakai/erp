@@ -63,7 +63,7 @@ spring:
     #database: 1
     #password: 98761234
   session:
-    store-type: redis
+    store-type: none
     timeout: 86400
   mvc:
     throw-exception-if-no-handler-found: true
